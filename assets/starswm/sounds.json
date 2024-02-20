@@ -1,0 +1,21 @@
+{
+  "fallendisc": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "starswm:fallendisc",
+        "stream": true
+      }
+    ]
+  },
+  "placeholdersound": {
+    "category": "neutral",
+    "subtitle": "subtitles.placeholdersound",
+    "sounds": [
+      {
+        "name": "starswm:new_text_document",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "starswm:custom/shootingstarsword",
+  "textures": {
+    "2": "starswm:block/starswordani",
+    "particle": "starswm:item/shootingstarswordani"
+  }
+}

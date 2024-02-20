@@ -1,0 +1,10 @@
+{
+    "animation": {
+        "interpolate": true,
+        "smoothAlpha": true,
+        "width": 64,
+        "height": 32,
+        "frametime": 80
+        
+    }
+}

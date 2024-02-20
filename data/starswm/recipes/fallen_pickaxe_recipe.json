@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "starswm:fallen_star"
+    },
+    "b": {
+      "item": "starswm:netherite_stick"
+    }
+  },
+  "result": {
+    "item": "starswm:fallen_pickaxe",
+    "count": 1
+  }
+}

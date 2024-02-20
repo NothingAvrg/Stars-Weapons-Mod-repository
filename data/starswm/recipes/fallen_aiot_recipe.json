@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "abc",
+    "de ",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "starswm:fallen_axe"
+    },
+    "b": {
+      "item": "starswm:fallen_pickaxe"
+    },
+    "c": {
+      "item": "starswm:fallen_hoe"
+    },
+    "d": {
+      "item": "starswm:fallen_shovel"
+    },
+    "e": {
+      "item": "starswm:netherite_stick"
+    }
+  },
+  "result": {
+    "item": "starswm:fallen_aiot",
+    "count": 1
+  }
+}

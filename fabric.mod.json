@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "starswm",
+  "version": "1.0.0",
+  "name": "Stars Weapons Mod",
+  "description": "This mod ads end game gear ! (Mainly for my Modpack)",
+  "authors": [
+    "NothingAvrg"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "icon": "assets/starswm/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.nothingavrg.starsweaponsmod.StarswmMod"
+    ],
+    "client": [
+      "net.nothingavrg.starsweaponsmod.ClientInit"
+    ],
+    "terrablender": [
+      "net.nothingavrg.starsweaponsmod.TerraBlenderInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "starswm.mixins.json"
+  ]
+}
